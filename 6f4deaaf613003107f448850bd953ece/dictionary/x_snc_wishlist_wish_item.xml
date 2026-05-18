@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8d7daeaf613003107f448850bd953e78" label="Wish Item" max_length="40" name="x_snc_wishlist_wish_item" type="collection">
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Item" mandatory="true" max_length="125" name="item" type="string"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <element display="true" label="Item" mandatory="true" max_length="125" name="item" type="string"/>
     </element>
 </database>
