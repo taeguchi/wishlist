@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Merged with Wish item section" section_id="5f78b7773d3003107f449601a65e14f4" sys_domain="global" table="x_snc_wishlist_wish_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-19 05:42:17</sys_created_on>
+            <sys_id>6f78f7773d3003107f449601a65e1415</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Merged with Wish item section" display_value="Merged with Wish item section" name="x_snc_wishlist_wish_item" sys_domain="global" view="Default view">5f78b7773d3003107f449601a65e14f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-19 05:42:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-19 05:42:17</sys_created_on>
+            <sys_id>2378f7773d3003107f449601a65e1416</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Merged with Wish item section" display_value="Merged with Wish item section" name="x_snc_wishlist_wish_item" sys_domain="global" view="Default view">5f78b7773d3003107f449601a65e14f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-19 05:42:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-19 05:42:17</sys_created_on>
+            <sys_id>e378f7773d3003107f449601a65e1416</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Merged with Wish item section" display_value="Merged with Wish item section" name="x_snc_wishlist_wish_item" sys_domain="global" view="Default view">5f78b7773d3003107f449601a65e14f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-19 05:42:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Merged with Wish item section</caption>
+            <header>false</header>
+            <name>x_snc_wishlist_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-19 05:42:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f78b7773d3003107f449601a65e14f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_wishlist_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="WishList" source="x_snc_wishlist">6f4deaaf613003107f448850bd953ece</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WishList">6f4deaaf613003107f448850bd953ece</sys_scope>
+            <sys_update_name>sys_ui_section_5f78b7773d3003107f449601a65e14f4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-19 05:42:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WishList">6f4deaaf613003107f448850bd953ece</application>
+        <file_path/>
+        <instance_id>4d31f05683308f587ecabd126daad3a7</instance_id>
+        <instance_name>nowlearning-nlinst04170202-39hnm-0001</instance_name>
+        <name>sys_ui_section_5f78b7773d3003107f449601a65e14f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Merged with Wish item section" section_id="5f78b7773d3003107f449601a65e14f4" sys_domain="global" table="x_snc_wishlist_wish_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>requester</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-19 05:42:17</sys_created_on><sys_id>6f78f7773d3003107f449601a65e1415</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Merged with Wish item section" display_value="Merged with Wish item section" name="x_snc_wishlist_wish_item" sys_domain="global" view="Default view">5f78b7773d3003107f449601a65e14f4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-19 05:42:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-19 05:42:17</sys_created_on><sys_id>2378f7773d3003107f449601a65e1416</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Merged with Wish item section" display_value="Merged with Wish item section" name="x_snc_wishlist_wish_item" sys_domain="global" view="Default view">5f78b7773d3003107f449601a65e14f4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-19 05:42:17</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>quantity</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-19 05:42:17</sys_created_on><sys_id>e378f7773d3003107f449601a65e1416</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Merged with Wish item section" display_value="Merged with Wish item section" name="x_snc_wishlist_wish_item" sys_domain="global" view="Default view">5f78b7773d3003107f449601a65e14f4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-19 05:42:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Merged with Wish item section</caption><header>false</header><name>x_snc_wishlist_wish_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-19 05:42:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5f78b7773d3003107f449601a65e14f4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_wishlist_wish_item</sys_name><sys_overrides/><sys_package display_value="WishList" source="x_snc_wishlist">6f4deaaf613003107f448850bd953ece</sys_package><sys_policy/><sys_scope display_value="WishList">6f4deaaf613003107f448850bd953ece</sys_scope><sys_update_name>sys_ui_section_5f78b7773d3003107f449601a65e14f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-19 05:42:16</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1608652691</payload_hash>
+        <record_name>Wish Item</record_name>
+        <reverted_from/>
+        <source>382bba6b617003107f448850bd953e96</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-19 05:42:17</sys_created_on>
+        <sys_id>6378f7773d3003107f449601a65e1417</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e3ec1a1120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-19 05:42:17</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>eb78f777be300310bf1b17b156416416</update_guid>
+        <update_guid_history>eb78f777be300310bf1b17b156416416:1608652691</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-19 05:43:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>40984797568e490e80de116dd608be11</sys_id>
+        <sys_metadata>5f78b7773d3003107f449601a65e14f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Merged with Wish item section</sys_name>
+        <sys_package display_value="WishList" source="x_snc_wishlist">6f4deaaf613003107f448850bd953ece</sys_package>
+        <sys_parent display_value="Wish Item">8d7daeaf613003107f448850bd953e78</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="WishList">6f4deaaf613003107f448850bd953ece</sys_scope>
+        <sys_scope_delete display_value="">04bb14349f9b4430802393ddb65164e4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5f78b7773d3003107f449601a65e14f4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5f78b7773d3003107f449601a65e14f4">6378f7773d3003107f449601a65e1417</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-19 05:43:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
